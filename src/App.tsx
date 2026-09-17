@@ -49,7 +49,7 @@ export default function App() {
         <span className="logo-mark" aria-hidden="true">
           <IconTarget />
         </span>
-        <span className="logo-name">Project Calibration</span>
+        <span className="logo-name">Calibrity</span>
         <span className="logo-badge">prototype</span>
         {phase !== "intro" && (
           <button className="btn-ghost btn-ghost-sm" onClick={restart}>

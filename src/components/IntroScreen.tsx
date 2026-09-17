@@ -13,7 +13,7 @@ export default function IntroScreen({ onStart }: Props) {
         </h1>
         <p className="intro-sub">
           AI answers arrive fluent, confident, and evenly persuasive — whether they're right or
-          completely made up. Project Calibration trains the skill most tutorials skip: matching your
+          completely made up. Calibrity trains the skill most tutorials skip: matching your
           confidence to the evidence.
         </p>
       </div>

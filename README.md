@@ -1,4 +1,4 @@
-# Project Calibration
+# Calibrity
 
 **Learn when to trust AI.** A hackathon MVP that trains AI literacy by measuring two things most
 tools ignore: your **decision** (Trust / Verify / Reject) and your **confidence** (0–100%).
